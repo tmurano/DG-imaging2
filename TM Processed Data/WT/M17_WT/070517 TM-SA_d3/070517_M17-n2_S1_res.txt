@@ -1,0 +1,2 @@
+MouseID	Latency(sec)	ChoiceNumber	Correct	Omission	Error	CorrectPercentage	(IncludingOmission)(%)	TotalDistance(cm)
+M17_n2_s1-070517 M17-n2_S1-FA	1705	10	7	0	3	70.0	(70.0)	4450.3
